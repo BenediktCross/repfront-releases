@@ -4,10 +4,12 @@
 
 ## Aktuelle Alpha
 
-[RepFront v4.4.0-alpha.1 für ARM64 herunterladen](https://github.com/BenediktCross/repfront-releases/releases/download/v4.4.0-alpha.1/RepFront-v4.4.0-alpha.1-arm64-v8a.apk)
+[RepFront v4.5.0-alpha.1 für ARM64 herunterladen](https://github.com/BenediktCross/repfront-releases/releases/download/v4.5.0-alpha.1/RepFront-v4.5.0-alpha.1-arm64-v8a.apk)
 
 - Zielgerät: Google Pixel 7 Pro und andere ARM64-Android-Geräte
 - Paket-ID: `de.bened.repfront`
-- SHA-256: `d97291b2bf171eb2ddc842b5429d0885ecfec240c078aa180e212e25f3b5ac21`
+- SHA-256: `cc008dd0274ebb7b330625e8fe04f4257d52389172ab14bc34c88c026eac6178`
 
-Die passende `.sha256`-Datei liegt beim GitHub-Release. Der private Quellcode wird in dieser Download-Ablage nicht veröffentlicht.
+[Prüfsummendatei herunterladen](https://github.com/BenediktCross/repfront-releases/releases/download/v4.5.0-alpha.1/RepFront-v4.5.0-alpha.1-arm64-v8a.apk.sha256)
+
+Der private Quellcode wird in dieser Download-Ablage nicht veröffentlicht.
